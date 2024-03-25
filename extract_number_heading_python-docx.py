@@ -1,7 +1,7 @@
 # %pip install python-docx
 from docx import Document
 
-def add_sections(doc_path: str):
+def extract_number_heading(doc_path: str):
     '''
     Input: path of a docx file 
     Output: a list of heading names and their number headings corresponding chapters, sections, subsections,... 
