@@ -4,6 +4,7 @@ Input: your path of docx files
 
 Output: a list including number headings and name headings of docx files
 
+# Installation
 Please start by "git clone https://github.com/nguyendangson/extract_number_heading_python-docx.git"
 
 Then in powershell, please run "pip install -r requirements.tx" to install python-docx or you can install python-docx by running "pip install python-docx"
