@@ -12,4 +12,4 @@ Then please run "pip install -r requirements.tx" to install python-docx or you c
 # Further Reading
 This function was used as a solution for the following forum question:
 
-https://stackoverflow.com/questions/64241953/how-to-extract-heading-numbers-from-a-document-using-python-docx
+- https://stackoverflow.com/questions/64241953/how-to-extract-heading-numbers-from-a-document-using-python-docx
